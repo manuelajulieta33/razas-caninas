@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
  </head>
-  <body>
+  
      <body bgcolor="turquoise">
         <h1><u>Razas caninas</u></h1>
   <li> <a href=formulario2.html/li> Acceder al formulario 1</a></li>
